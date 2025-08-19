@@ -1,1 +1,1 @@
-Este es el archivo original + Cambios desde A + Cambios desde B
+﻿Este es el archivo original + Cambios desde B v2
